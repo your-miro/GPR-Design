@@ -1,4 +1,5 @@
-# GPR-Design
+# GPR-Design 
+## (This project has been deprecated, and the following results are only valid for temporally-short signals)
 ```
 Design1.pll analysed at Sun May 18 20:48:14 2025 
  
