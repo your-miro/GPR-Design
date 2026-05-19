@@ -1,5 +1,6 @@
 # GPR-Design 
-## (This project has been deprecated, and the following results are only valid for temporally-short signals)
+## (This project has been deprecated, and the following results are only valid for signals short in time)
+Moreover, the aim of the project was to try to go for a frequency-modulated continuous wave (FMCW) solution rather than the typical pulsed radar when making a GPR.
 ```
 Design1.pll analysed at Sun May 18 20:48:14 2025 
  
